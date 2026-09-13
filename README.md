@@ -19,7 +19,8 @@ The investigation used publicly available information and defensive intelligence
 
 Full Project Report
 
-[View the Full OSINT Threat Intelligence Report](report/OSINT-Based-Threat-Intelligence-Assessment.pdf)
+[View the Full OSINT Threat Intelligence Report https://github.com/Beebee-24/osint-threat-intelligence-assessment/blob/main/OSINT-Based-Threat-Intelligence-Assessment.pdf
+
 
 ## Objectives
 
