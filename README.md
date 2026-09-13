@@ -17,7 +17,9 @@ The assessment was conducted to identify publicly observable security risks asso
 
 The investigation used publicly available information and defensive intelligence techniques. **No exploitation, brute-force activity, unauthorized access, or intrusive testing was performed.**
 
----
+Full Project Report
+
+[View the Full OSINT Threat Intelligence Report](report/OSINT-Based-Threat-Intelligence-Assessment.pdf)
 
 ## Objectives
 
