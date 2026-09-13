@@ -29,7 +29,9 @@ The assessment was guided by three primary intelligence requirements:
 
 These requirements were used to structure the OSINT collection and analysis process.
 
----
+Full Project Report
+
+View the Full OSINT Threat Intelligence Report- (OSINT-Based-Threat-Intelligence-Assessment.pdf)
 
 ## Methodology
 
